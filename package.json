@@ -1,0 +1,16 @@
+{
+  "name": "dhakametaverse",
+  "version": "1.0.0",
+  "description": "Dhaka driving game (Three.js, real OSM roads)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer-core": "^25.16.0",
+    "three": "^0.128.0"
+  }
+}
